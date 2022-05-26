@@ -1,0 +1,9 @@
+<xs:element name="Books">
+    <xs:complexType mixed="true">
+        <xs:sequence>
+            <xs:element name="BookName" type="xs:string"/>
+            <xs:element name="ISBN" type="xs:positive Integer"/>
+            <xs:element name="Price" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:element>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Book xmlns="http://www.booksworld.com"xmlns:xsi="http://www.w3.org/2001/
+XMLSchema-instance"xsi:schemaLocation="http://www.booksworld.com Book.
+xsd">
+    <Title>Million Seconds</Title>
+    <Author>Kelvin Brown</Author>
+    <Chapter>The plot of the story starts from here.</Chapter>
+</Book>

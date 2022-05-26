@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE Letter[
+        <!ENTITY address "15 Downing St Floor1">
+        <!ENTITY city "New York">
+        ]>
+<Letter>
+    <To>&quot;Tom Smith&quot;</To>
+    <Address>&address;</Address>
+    <City>&city;</City>
+    <Body>
+        Hi!How are you?
+        The sum is &gt; $1000
+    </Body>
+    <From>ARNOLD</From>
+</Letter>

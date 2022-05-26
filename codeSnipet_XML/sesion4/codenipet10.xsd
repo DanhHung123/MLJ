@@ -1,0 +1,7 @@
+<xs:complexType name="Books">
+    <xs:simpleContent>
+        <xs:extension base="xs:string">
+            <xs:attribute name="BookCode" type="xs:positiveInteger"/>
+        </xs:extension>
+    </xs:simpleContent>
+</xs:complexType>

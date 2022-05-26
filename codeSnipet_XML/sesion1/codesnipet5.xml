@@ -1,0 +1,6 @@
+<Name NickName='John'>
+    <First>John</First>
+    <!-- John is yet to pay the term fees -->
+    <Last>Brown</Last>
+    <Semester>Final</Semester>
+</Name>

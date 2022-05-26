@@ -1,0 +1,4 @@
+<Auc:Books xmlns:Auc="http://www.auction.com/books"
+           xmlns:B="http://www.books.com/HTML/1998/xm11">
+    <Auc:BookReview>
+    <B:Table>

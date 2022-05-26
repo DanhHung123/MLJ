@@ -1,0 +1,7 @@
+<!DOCTYPE MusicCollection [
+        <!ENTITYR"Rock">
+        <!ENTITYS"Soft">
+        <!ENTITY RA"Rap">
+        <!ENTITY HH"Hiphop">
+        <!ENTITYF"Folk">
+        ]>
